@@ -3,7 +3,7 @@ M2LibraryList
 A script that generates a comparison chart between the Maschine 2 Full Factory Library and the Factory Selection.
 
 ## Webpage
-https://aike.github.io/m2librarylist/
+https://aike.github.io/M2LibraryList/
 
 ![screenshot](ss.png)
 
