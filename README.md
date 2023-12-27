@@ -27,5 +27,5 @@ There is no official content list of the libraries.
 So I make a script that generates a comparison chart between the ***Full Factory Library*** and the ***Factory Selection***.
 
 ## License
-M2LibraryList program is licensed under MIT License.  
+M2LibraryList program except generated html file is licensed under MIT License.  
 Copyright 2023, aike (@aike1000)  
